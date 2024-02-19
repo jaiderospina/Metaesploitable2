@@ -1,6 +1,5 @@
 # Metaesploitable2
 Metaesploitable2
-# Metasploitable 2
 **Contenido**
 
         - Instalación de Kali 
